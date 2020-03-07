@@ -1,0 +1,5 @@
+I = 1
+WHILE I < 5
+  PRINT "This loop never ends."
+WEND
+END
